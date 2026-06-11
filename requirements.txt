@@ -4,7 +4,7 @@ langgraph-checkpoint-sqlite
 langchain-core
 langchain-groq
 langchain-community
-duckduckgo-search
+ddgs
 beautifulsoup4
 requests
 python-dotenv
